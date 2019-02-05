@@ -18,6 +18,8 @@ What I Learnt
 - Custom ArrayAdapter(for specific text view and image view)
 - Visual Polishing(adding activity specific background)
 
+-Adding Audio files(using the Android media player class)
+
 License
 -------
 
